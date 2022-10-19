@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h4>WEB-DEVELOPER</h4> <br />
 I've been learning to code for over six month. Started with HTML but later develop passion for Server-Side Programming. <br />
 🌍  I'm based in nigeria <br />
-✉️  You can contact me at [officialinvestorbash@hotmail.com](mailto:officialinvestorbash@hotmail.com) <br />
+✉️  You can contact me at <a href="mailto:officialinvestorbash@gmail.com">EMAIL</a> <br />
 🧠  I'm Currently learning Django <br />
 🤝  I'm open to collaborating on Open-Source Project <br />
 ⚡  I learn from the BEST!!! #MYSELF
