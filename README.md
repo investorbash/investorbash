@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BASHORUN OLAIDE
 
 <h4>WEB-DEVELOPER</h4> <br />
-I've been learning to code for over six month. Started with HTML but later develop passion for Server-Side Programming. <br />
+I've been learning to code for over a year. Started with HTML but later develop passion for Server-Side Programming. <br />
 🌍  I'm based in nigeria <br />
 ✉️  You can contact me at <a href="mailto:officialinvestorbash@gmail.com">EMAIL</a> <br />
 🧠  I'm Currently learning Django <br />
