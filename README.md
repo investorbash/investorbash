@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is BASHORUN OLAIDE
 
-< <br />
-👋  I started with HTML and fell in love with Server-Side Development
+<br />
+👋  I started with HTML and fell in love with Server-Side Development  <br />
 ✉️  You can contact me @ <a href="mailto:officialinvestorbash@gmail.com" target="_blank" rel="noreferrer">Email</a> <br />
 ☁️ Learning: DevOps & Cloud Computing <br />
 🤝 Open to Open-Source Collaborations <br />
